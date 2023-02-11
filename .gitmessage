@@ -1,0 +1,15 @@
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
+
+# head:
+#   - type: feat, fix, docs, refactor, test, style
+#   - scope: [example]If commit includes the change of `structure`, please type `structure`
+#   - subject: start with verb
+# body:
+#   more information about this commit
+# footer:
+#   - BREAKING CHANGE
+#   - [ISSUE NUMBER][INFO]
